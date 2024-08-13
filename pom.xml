@@ -148,7 +148,7 @@
       <version>1.27.0</version>
     </dependency>
     <dependency>
-      <!-- this should not be required but somehow compress introduced the dep -->
+      <!-- This should not be required but somehow compress introduced the dep -->
       <groupId>org.apache.commons</groupId>
       <artifactId>commons-lang3</artifactId>
       <version>3.16.0</version>
